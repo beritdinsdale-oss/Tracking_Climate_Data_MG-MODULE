@@ -1,0 +1,7 @@
+You’ve explored the climate data!
+
+The Corvallis data show that temperatures have increased over time, while precipitation patterns vary by season. But annual precipitation totals don’t tell us the whole story.
+
+What do these patterns mean for the water available to our gardens?
+
+Continue to the next Canvas page, “What Do These Trends Mean for Your Garden?”, to find out.
